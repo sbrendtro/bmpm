@@ -1,0 +1,11 @@
+{
+    "name": "sbrendtro/bmpm",
+    "description": "Beider-Morse Phonetic Matching (BMPM) algorithm, with an object-oriented interface",
+    "authors": [
+        {
+            "name": "Steven Brendtro",
+            "email": "steven.brendtro@gmail.com"
+        }
+    ],
+    "require": {}
+}

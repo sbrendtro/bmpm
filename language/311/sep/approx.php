@@ -1,0 +1,1 @@
+a:6:{i:0;a:1:{i:0;a:1:{i:0;s:9:"approxany";}}i:1;a:1:{i:0;a:1:{i:0;s:12:"approxfrench";}}i:2;a:1:{i:0;a:1:{i:0;s:12:"approxhebrew";}}i:3;a:1:{i:0;a:1:{i:0;s:12:"approxfrench";}}i:4;a:1:{i:0;a:1:{i:0;s:12:"approxfrench";}}i:5;a:1:{i:0;a:1:{i:0;s:12:"approxfrench";}}}

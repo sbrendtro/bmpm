@@ -1,0 +1,1 @@
+a:11:{i:0;s:3:"any";i:1;s:8:"cyrillic";i:2;s:7:"english";i:3;s:6:"french";i:4;s:6:"german";i:5;s:6:"hebrew";i:6;s:9:"hungarian";i:7;s:6:"polish";i:8;s:8:"romanian";i:9;s:7:"russian";i:10;s:7:"spanish";}
